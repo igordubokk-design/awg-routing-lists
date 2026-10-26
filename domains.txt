@@ -6,3 +6,4 @@ app.metricool.com
 midea.cn
 nextcloud.com
 waveshare.com
+namecheap.com
