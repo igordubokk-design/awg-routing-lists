@@ -7,3 +7,6 @@ midea.cn
 nextcloud.com
 waveshare.com
 namecheap.com
+boschtoolservice.com
+erpatech.com
+hilti.pl
