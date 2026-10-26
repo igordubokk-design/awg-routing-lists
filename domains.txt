@@ -5,3 +5,4 @@ wiki.seeedstudio.com
 app.metricool.com
 midea.cn
 nextcloud.com
+waveshare.com
