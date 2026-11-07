@@ -11,3 +11,4 @@ boschtoolservice.com
 erpatech.com
 hilti.pl
 app.heygen.com
+amnezia.host
