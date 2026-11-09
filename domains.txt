@@ -13,3 +13,4 @@ app.heygen.com
 amnezia.host
 autodesk.com
 manage.autodesk.com
+hostvds.com
