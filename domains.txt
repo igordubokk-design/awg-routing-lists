@@ -1,5 +1,4 @@
 play.qobuz.com
-avito.ru
 wiki.seeedstudio.com
 app.metricool.com
 midea.cn
@@ -11,6 +10,5 @@ erpatech.com
 hilti.pl
 app.heygen.com
 amnezia.host
-autodesk.com
 manage.autodesk.com
 hostvds.com
