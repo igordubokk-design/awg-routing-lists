@@ -13,3 +13,4 @@ amnezia.host
 manage.autodesk.com
 hostvds.com
 desktop.telegram.org
+hostvds.com
