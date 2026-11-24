@@ -12,3 +12,4 @@ app.heygen.com
 amnezia.host
 manage.autodesk.com
 hostvds.com
+demo.codeandchill.store
